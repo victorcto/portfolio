@@ -1,3 +1,7 @@
+<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a></center>
+<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/></a></center>
+<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a></center>
+
 <h1> Victor Couto </h1>
 <hr>
 <h2> Desenvolvedor e cientista de dados em formação.

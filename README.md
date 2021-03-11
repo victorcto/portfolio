@@ -1,6 +1,6 @@
-<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png"/></a></center>
-<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/twitter-circled--v1.png"/></a></center>
-<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png"/></a></center>
+<center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/30/000000/linkedin-circled--v1.png"/></a></center>
+<center><a href="https://twitter.com/victorcto_"><img src="https://img.icons8.com/color/30/000000/twitter-circled--v1.png"/></a></center>
+<center><a href="https://www.instagram.com/victorcto/"><img src="https://img.icons8.com/color/30/000000/instagram-new--v1.png"/></a></center>
 
 <h1> Victor Couto </h1>
 <hr>

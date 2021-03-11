@@ -1,8 +1,7 @@
 <img src="https://i.ibb.co/PMWkhgz/1615258327826.jpg" width="100%" alt="1615258327826" border="0">
-<h1> Victor Couto <center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/color/20/000000/linkedin-circled--v1.png"/></a></center>
-<center><a href="https://twitter.com/victorcto_"><img src="https://img.icons8.com/color/20/000000/twitter-circled--v1.png"/></a></center>
-<center><a href="https://www.instagram.com/victorcto/"><img src="https://img.icons8.com/color/20/000000/instagram-new--v1.png"/></a></center></h1>
-<hr>
+<h1> Victor Couto <center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/></a></center>
+<center><a href="https://twitter.com/victorcto_"><img src="https://img.icons8.com/ios-filled/20/000000/twitter.png"/></a></center>
+<center><a href="https://www.instagram.com/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/instagram-new.png"/></a></center></h1>
 <h2> Desenvolvedor e cientista de dados em formação. </h2>
 <h3> Sobre mim </h3>
 <p> Olá, eu me chamo Victor Gabriel Oliveira do Couto, tenho 20 anos e sou de Natal - RN, Brasil. Atualmente, estou no 4º semestre de Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN), entretanto pretendo cursar Ciência da Computação na UFRN. </p>

@@ -17,4 +17,4 @@
 </ul>
 <h5> Projetos </h5>
   <ul>
-    <li><b> Como maninupular PDF com Python:</b><a href="https://cutt.ly/wzTGmqa"> https://cutt.ly/wzTGmqa</a></li> 
+    <li><b> Como manipular PDF com Python:</b><a href="https://cutt.ly/wzTGmqa"> https://cutt.ly/wzTGmqa</a></li> 

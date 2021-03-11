@@ -2,7 +2,7 @@
 <h1> Victor Couto <center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/></a></center>
 <center><a href="https://twitter.com/victorcto_"><img src="https://img.icons8.com/ios-filled/20/000000/twitter.png"/></a></center>
 <center><a href="https://www.instagram.com/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/instagram-new.png"/></a></center></h1>
-<h2> Desenvolvedor e cientista de dados em formação. </h2>
+<sub>Desenvolvedor e cientista de dados em formação. </sub>
 <h3> Sobre mim </h3>
 <p> Olá, eu me chamo Victor Gabriel Oliveira do Couto, tenho 20 anos e sou de Natal - RN, Brasil. Atualmente, estou no 4º semestre de Ciências e Tecnologia na Universidade Federal do Rio Grande do Norte (UFRN), entretanto pretendo cursar Ciência da Computação na UFRN. </p>
 <p> Minha paixão por programação surgiu por volta dos 14 anos de idade quando eu me questionava como funcionava um site, e ficava fascinado pelas suas funcionalidades e design. Foi então, quando eu entendi que para fazer um site era preciso escrever instruções para o computador e com isso, aprendi um pocuo de HTML e CSS. A partir dessa linguagem de marcação e estilo que eu pude perceber que era isso que eu amava fazer. Comecei a compreender melhor como de fato as coisas funcionavam e a explorar novas áreas e tecnologias. </p>

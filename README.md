@@ -2,6 +2,7 @@
 <h1> Victor Couto <center><a href="https://www.linkedin.com/in/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/linkedin.png"/></a></center>
 <center><a href="https://twitter.com/victorcto_"><img src="https://img.icons8.com/ios-filled/20/000000/twitter.png"/></a></center>
 <center><a href="https://www.instagram.com/victorcto/"><img src="https://img.icons8.com/ios-filled/20/000000/instagram-new.png"/></a></center>
+<center><a href="https://www.hackerrank.com/victorcouto"><img src="https://img.icons8.com/windows/20/000000/hackerrank.png"/></a></center>
 </h1>
 <h4>Desenvolvedor e cientista de dados em formação. </h4>
 <h5> Sobre mim </h5>
